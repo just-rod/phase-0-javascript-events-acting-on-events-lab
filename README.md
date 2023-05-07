@@ -1,4 +1,4 @@
-# Moving Things with JavaScript by Acting on Events
+# Moving Things with JavaScript by Acting on Events 
 
 ## Learning Goals
 
